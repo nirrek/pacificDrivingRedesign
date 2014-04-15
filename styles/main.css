@@ -9900,7 +9900,7 @@ td {
 /* line 48, ../../app/styles/main.scss */
 
 .header--main {
-  background-image: url('images/marquee-bg.jpg');
+  background-image: url('/pacificDrivingRedesign/images/marquee-bg.jpg');
   background-size: cover;
   background-position: center;
   height: 627px;
